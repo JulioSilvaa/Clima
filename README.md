@@ -1,6 +1,6 @@
 # Clima-Tempo
 
-O projeto **Clima** foi desenvolvido para praticar o Javascript, tem como proncipal objtivo, trazer informações do Tempo de uma cidade solicitada pelo usuário.
+O projeto **Clima** foi desenvolvido para praticar o Javascript, tem como proncipal objetivo, trazer informações do Tempo de uma cidade solicitada pelo usuário.
 
 # Imagens do Projeto
 ![Captura de tela 2022-10-05 205318](https://user-images.githubusercontent.com/69260762/194184411-e0495d3e-219a-4491-ad70-bc0ce4ecb09e.png)
