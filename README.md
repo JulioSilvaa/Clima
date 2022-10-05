@@ -3,6 +3,13 @@
 O projeto **Clima** foi desenvolvido para praticar o Javascript, tem como proncipal objtivo, trazer informações do Tempo de uma cidade solicitada pelo usuário.
 
 # Imagens do Projeto
+![Captura de tela 2022-10-05 205318](https://user-images.githubusercontent.com/69260762/194184411-e0495d3e-219a-4491-ad70-bc0ce4ecb09e.png)
+![Captura de tela 2022-10-05 205403](https://user-images.githubusercontent.com/69260762/194184414-8ad32767-f61f-4c55-a848-e7943658dd3e.png)
+![Captura de tela 2022-10-05 205442](https://user-images.githubusercontent.com/69260762/194184415-03216ee6-4a7b-43f8-bb0e-19826effc7f5.png)
+![Captura de tela 2022-10-05 205532](https://user-images.githubusercontent.com/69260762/194184417-f01b0e1a-ee69-4a9a-a34b-6577240aefb0.png)
+![Captura de tela 2022-10-05 205621](https://user-images.githubusercontent.com/69260762/194184419-b203fc62-40fb-4255-a423-462902baf1c1.png)
+
+
 
 # Índice
 
