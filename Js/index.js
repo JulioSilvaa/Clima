@@ -69,8 +69,18 @@ const showWeatherData = async (city) => {
 
 serachButton.addEventListener("click", (event) => {
   event.preventDefault();
-  const city = cityInput.value;
-  showWeatherData(city);
+  if (!cityInput.value) {
+    Toastify({
+      text: "Digite uma Cidade Valida",
+      className: "alert",
+      style: {
+        background: "blue",
+      },
+    }).showToast();
+  } else {
+    const city = cityInput.value;
+    showWeatherData(city);
+  }
 });
 
 cityInput.addEventListener("keypress", (event) => {
